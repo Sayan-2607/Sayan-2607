@@ -71,13 +71,4 @@ Computer-vision crowd-intelligence platform generating bogie-wise heatmaps to fo
 ---
 
 <details>
-<summary><b>Setup checklist (things to do by hand)</b></summary>
-
-1. Create a repo named exactly `Sayan-2607/Sayan-2607`, public, with a README.
-2. Upload this `README.md` and the `assets/` folder (banner-dark.svg, banner-light.svg) to the repo root.
-3. Self-host stats: generate a GitHub classic token (`repo` scope, no expiration) → fork `anuraghazra/github-readme-stats` → deploy on Vercel (Hobby, free) with env var `PAT_1` = your token → replace `github-readme-stats.vercel.app` above with your own `*.vercel.app` URL.
-4. Add `.github/workflows/snake.yml` to the repo, then go to **Settings → Actions → General → Workflow permissions → Read and write** and save. Push to `main` to trigger the first run; the `output` branch (and the snake images) won't exist until that run goes green.
-5. Test theme switching: avatar → Settings → Appearance, toggle dark/light, reload the profile page.
-6. If an image "doesn't update," it's almost always CDN caching — open the raw SVG URL with `?v=999` appended to bypass it before assuming something's broken.
-
 </details>
