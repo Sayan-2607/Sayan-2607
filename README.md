@@ -172,21 +172,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan-2607&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan-2607&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan-2607&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan-2607&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan-2607&theme=tokyonight&utcOffset=5.5" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sayan-2607&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" height="170"/>
-
-</div>
 
 ---
 
