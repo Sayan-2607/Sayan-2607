@@ -176,14 +176,13 @@ flowchart LR
 
 <div align="center">
 
-<!-- These SVGs are generated daily by .github/workflows/profile-cards.yml and stored in this repo -->
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayan-2607&theme=tokyonight" width="100%"/>
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayan-2607&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayan-2607&theme=tokyonight" width="49%"/>
 
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayan-2607&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayan-2607&theme=tokyonight&utcOffset=5.5" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Sayan-2607&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=2563eb&currStreakLabel=7c3aed" height="170"/>
 
